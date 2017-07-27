@@ -1,5 +1,5 @@
 EVENT REGISTATION FORM
-** Form For The Registration.**
+ Form For The Registration.
 <html>  
 <head>  
 <title>Register</title>  
